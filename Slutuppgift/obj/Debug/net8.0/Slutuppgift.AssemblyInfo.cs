@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Slutuppgift")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61733edc6bdc91e2444fb043fd43c94c003c4f13")]
 [assembly: System.Reflection.AssemblyProductAttribute("Slutuppgift")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Slutuppgift")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

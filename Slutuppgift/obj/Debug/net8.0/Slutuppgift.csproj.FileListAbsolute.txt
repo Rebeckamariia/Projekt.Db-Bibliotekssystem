@@ -1,0 +1,6 @@
+/Users/rebeckakorkis/Documents/Databasutveckling/Projekt Db/Slutuppgift/obj/Debug/net8.0/Slutuppgift.csproj.AssemblyReference.cache
+/Users/rebeckakorkis/Documents/Databasutveckling/Projekt Db/Slutuppgift/obj/Debug/net8.0/Slutuppgift.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rebeckakorkis/Documents/Databasutveckling/Projekt Db/Slutuppgift/obj/Debug/net8.0/Slutuppgift.AssemblyInfoInputs.cache
+/Users/rebeckakorkis/Documents/Databasutveckling/Projekt Db/Slutuppgift/obj/Debug/net8.0/Slutuppgift.AssemblyInfo.cs
+/Users/rebeckakorkis/Documents/Databasutveckling/Projekt Db/Slutuppgift/obj/Debug/net8.0/Slutuppgift.csproj.CoreCompileInputs.cache
+/Users/rebeckakorkis/Documents/Databasutveckling/Projekt Db/Slutuppgift/obj/Debug/net8.0/Slutuppgift.sourcelink.json
